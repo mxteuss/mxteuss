@@ -7,7 +7,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail]([(https://cdn-icons-png.flaticon.com/512/281/281769.png)](https://www.citypng.com/public/uploads/preview/google-gmail-envelope-vector-symbol-logo-icon-701751694791058rlo6laiga4.png))](mailto:mateusjob07@gmail.com)
+[![E-mail](https://cdn-icons-png.flaticon.com/512/281/281769.png)](https://www.citypng.com/public/uploads/preview/google-gmail-envelope-vector-symbol-logo-icon-701751694791058rlo6laiga4.png)](mailto:mateusjob07@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF](https://cdn-icons-png.flaticon.com/512/2111/2111463.png))](https://www.instagram.com/eazymt/)
 
 
