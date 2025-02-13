@@ -1,35 +1,9 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato+a+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
-  </a>
-</div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
-#
-
-<p align="center">Futuro estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Atualmente estou estudando JavaScript e Python.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente focado em JavaScript.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Já participei de alguns projetos significantes para instituições de ensino próximas.
   
 #
-
-<img align="right" alt="" height="190px" src="https://pa1.narvii.com/6692/a1a0d8e36ba4d02418f264c54b0a62e73f88657f_hq.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -85,14 +59,3 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
