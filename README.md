@@ -2,7 +2,7 @@
 ## <p>Opa, e ai? 🖐️</p>
 
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente focado em JavaScript.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente focado em Java.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Já participei de alguns projetos significantes para instituições de ensino próximas.
   
 #
