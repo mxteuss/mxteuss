@@ -17,15 +17,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">My Stack</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="40" />
+  <img width="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="40" />
+  <img width="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="40" />
+  <img width="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="40" />
+  <img width="" />
 
 
 </div>
