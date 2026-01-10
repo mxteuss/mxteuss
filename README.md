@@ -2,7 +2,7 @@
 ## <p align="center">Opa, e ai? Eu sou Mateus</p>
 
 
-<p align="left"> <i>Estudante de Análise e Desenvolvimento de Sistemas no segundo semestre. Atualmente focado em Java.
+<p align="left"> <i>Estudante de Análise e Desenvolvimento de Sistemas. Atualmente focado em Java e Javascript.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. </i>                    
   <h3 align="left">Connect with me!</h3>
 
