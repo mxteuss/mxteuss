@@ -1,32 +1,43 @@
 
-## <p align="center">Opa, e ai? Eu sou Mateus</p>
+## <p align="center">Hello, I'm Mateus</p>
 
 
-<p align="left"> <i>Estudante de Análise e Desenvolvimento de Sistemas. Atualmente focado em Java e Javascript.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. </i>                    
+<p align="left"> <i>I'm Associate Degree Student passionate in Backend Development.</i>                    
   <h3 align="left">Connect with me!</h3>
 
  <a href = "mailto:mateusjob07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-santos-197096350/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div align= "left">
 
 #
 
 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img height="40" alt="rabbitmq logo" src="https://github.com/user-attachments/assets/0f7f93f8-b3d9-40f1-aa78-0805211289f1" />
+
   <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pgadmin.png" height="80" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pgadmin.png" height="40" alt="postgresql logo" />
   <img width="" />
-  <img src="https://img.icons8.com/color/512/spring-logo.png" height="80" alt="springboot logo" />
+  <img src="https://img.icons8.com/color/512/spring-logo.png" height="40" alt="springboot logo" />
   <img width="" />
+  <img height="40" alt="javascript logo" src="https://github.com/user-attachments/assets/ff8012f6-8c61-4a4a-9023-a18b2d1e782d" />
+  <img height="40" alt="docker logo" src="https://github.com/user-attachments/assets/82030e75-c808-402d-b575-ad4cbbdcc3a7" />
+  <img height="40" alt="linux logo" src="https://github.com/user-attachments/assets/803a5f7a-e9c2-4b12-8639-ac1f651bc469" />
+  <img height="40" alt="bootstrap logo" src="https://github.com/user-attachments/assets/4738299a-325d-4eea-8ee8-1ab57ddebb9a" />
+
+
+
+
+
+  
+
 
 </div>
 
