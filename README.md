@@ -1,14 +1,12 @@
 
-## <p align="center">Hello, I'm Mateus</p>
+## <p align="left">Hello, I'm Mateus</p>
 
 
-<p align="left"> <i>I'm Associate Degree Student passionate in Backend Development.</i>                    
-  <h3 align="left">Connect with me!</h3>
+<p align="left"> <i>I'm Associate Degree Student passionate in Backend Development and future Software Engineer</i>                    
 
- <a href = "mailto:mateusjob07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <div align= "left">
 
-#
 
 
 
