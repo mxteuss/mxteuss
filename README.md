@@ -28,7 +28,6 @@
   <img height="40" alt="javascript logo" src="https://github.com/user-attachments/assets/ff8012f6-8c61-4a4a-9023-a18b2d1e782d" />
   <img height="40" alt="docker logo" src="https://github.com/user-attachments/assets/82030e75-c808-402d-b575-ad4cbbdcc3a7" />
   <img height="40" alt="linux logo" src="https://github.com/user-attachments/assets/803a5f7a-e9c2-4b12-8639-ac1f651bc469" />
-  <img height="40" alt="bootstrap logo" src="https://github.com/user-attachments/assets/4738299a-325d-4eea-8ee8-1ab57ddebb9a" />
 
 
 
